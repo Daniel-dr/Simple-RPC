@@ -1,4 +1,4 @@
-package rpc.tomstillcoding.com.core.codec;
+package com.buaadaniel.rpc.core.codec;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,7 +1,7 @@
-package rpc.tomstillcoding.com.core.client;
+package com.buaadaniel.rpc.core.client;
 
-import rpc.tomstillcoding.com.core.rpc_protocol.RpcRequest;
-import rpc.tomstillcoding.com.core.rpc_protocol.RpcResponse;
+import com.buaadaniel.rpc.core.protocol.RpcRequest;
+import com.buaadaniel.rpc.core.protocol.RpcResponse;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

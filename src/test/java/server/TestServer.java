@@ -1,8 +1,7 @@
 package server;
 
-import rpc.tomstillcoding.com.IDL.Hello.HelloService;
-import rpc.tomstillcoding.com.IDL.Ping.PingService;
-import rpc.tomstillcoding.com.core.server.RpcServer;
+import com.buaadaniel.rpc.idl.hello.HelloService;
+import com.buaadaniel.rpc.core.server.RpcServer;
 
 public class TestServer {
     public static void main(String[] args) {

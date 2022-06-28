@@ -1,11 +1,8 @@
 package server;
 
-import rpc.tomstillcoding.com.IDL.Hello.HelloRequest;
-import rpc.tomstillcoding.com.IDL.Hello.HelloResponse;
-import rpc.tomstillcoding.com.IDL.Hello.HelloService;
-import rpc.tomstillcoding.com.IDL.Ping.PingRequest;
-import rpc.tomstillcoding.com.IDL.Ping.PingResponse;
-import rpc.tomstillcoding.com.IDL.Ping.PingService;
+import com.buaadaniel.rpc.idl.ping.PingRequest;
+import com.buaadaniel.rpc.idl.ping.PingResponse;
+import com.buaadaniel.rpc.idl.ping.PingService;
 
 public class PingServiceImpl implements PingService {
 

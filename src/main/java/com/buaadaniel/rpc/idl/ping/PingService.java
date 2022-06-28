@@ -1,4 +1,4 @@
-package rpc.tomstillcoding.com.IDL.Ping;
+package com.buaadaniel.rpc.idl.ping;
 
 public interface PingService {
     PingResponse ping(PingRequest request);

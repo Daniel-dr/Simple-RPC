@@ -1,4 +1,4 @@
-package rpc.tomstillcoding.com.core.server;
+package com.buaadaniel.rpc.core.server;
 
 import java.io.IOException;
 import java.net.ServerSocket;

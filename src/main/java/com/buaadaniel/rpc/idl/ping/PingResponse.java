@@ -1,4 +1,4 @@
-package rpc.tomstillcoding.com.IDL.Hello;
+package com.buaadaniel.rpc.idl.ping;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -8,6 +8,6 @@ import java.io.Serializable;
 
 @Data
 @AllArgsConstructor
-public class HelloResponse implements Serializable {
+public class PingResponse implements Serializable {
     private String msg;
 }

@@ -1,8 +1,8 @@
 package server;
 
-import rpc.tomstillcoding.com.IDL.Hello.HelloRequest;
-import rpc.tomstillcoding.com.IDL.Hello.HelloResponse;
-import rpc.tomstillcoding.com.IDL.Hello.HelloService;
+import com.buaadaniel.rpc.idl.hello.HelloRequest;
+import com.buaadaniel.rpc.idl.hello.HelloResponse;
+import com.buaadaniel.rpc.idl.hello.HelloService;
 
 public class HelloServiceImpl implements HelloService {
     @Override
